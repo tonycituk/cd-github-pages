@@ -18,7 +18,7 @@ html, body {
     background-size: cover;
     background-repeat: no-repeat;
     height: 500px;
-    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('/img/programming-1873854_1920.png');
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('https://github.com/Antonio-Cituk/cd-github-pages/blob/main/img/programming-1873854_1920.png?raw=true');
 }
 
 .title {
